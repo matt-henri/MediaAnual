@@ -15,5 +15,6 @@ public class media {
 	public double gradeFinal() {
 		return nota1 + nota2 + nota3;
 	}
-
+	
+	
 }
